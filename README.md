@@ -42,7 +42,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
       <a href="https://github.com/Rictheodoro">
         <img src="https://github.com/Rictheodoro.png" width="100px;" alt="Foto do Ricardo Theodoro no GitHub"/><br>
         <sub>
-          <b>Diego Ferreira</b>
+          <b>Ricardo Theodoro</b>
         </sub>
       </a>
     </td>
