@@ -39,8 +39,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/diegohfcelestino">
-        <img src="https://github.com/diegohfcelestino.png" width="100px;" alt="Foto do Diego Ferreira no GitHub"/><br>
+      <a href="https://github.com/Rictheodoro">
+        <img src="https://github.com/Rictheodoro.png" width="100px;" alt="Foto do Ricardo Theodoro no GitHub"/><br>
         <sub>
           <b>Diego Ferreira</b>
         </sub>
