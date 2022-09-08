@@ -6,7 +6,7 @@
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer dos meus estudos e carreira.
 </h4>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto](assets/image/Resultado-Final.png)
 
 <h4 align="center"><a href="https://rictheodoro.github.io/portfolio-theo/">Clique para visitar o projeto</a></h4>
 
